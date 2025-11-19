@@ -1,0 +1,11 @@
+Report Status (These questions need to be answered for part of your grade):
+1.1: What command did you use to bring the repository to your local machine?
+Answer:git init
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/Killeroxthebest/Digital-History-Notebook.git
+>> git push -u origin maini
+1.2: What was your first commit message to push this file to GitHub?
+Answer: commit add
+

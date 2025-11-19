@@ -1,0 +1,2 @@
+Help create and contribute to computing devices and building blocks of ai and cryptography.
+https://www.nist.gov/blogs/taking-measure/alan-turings-everlasting-contributions-computing-ai-and-cryptography
