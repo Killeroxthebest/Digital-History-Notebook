@@ -116,3 +116,11 @@ A screenshot of your repository's commit history on GitHub. To find this, naviga
 Be sure to answer the questions above as well.
 
 # Digital-History-Notebook
+
+Timeline: The rise of the internet
+# creation of ARPANET
+- successful message between two computers
+  #TCP
+  - foundation of the modern internet
+  # World wide web
+  - Foundation for tech
