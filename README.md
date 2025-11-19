@@ -120,7 +120,12 @@ Be sure to answer the questions above as well.
 Timeline: The rise of the internet
 # creation of ARPANET
 - successful message between two computers
-  #TCP
+  <img width="239" height="200" alt="image" src="https://github.com/user-attachments/assets/b7c45961-3e89-4589-8337-327aaba43e00" />
+
+  # TCP
   - foundation of the modern internet
+    <img width="240" height="200" alt="image" src="https://github.com/user-attachments/assets/44110834-3131-4370-86e5-0b49fb7323f1" />
+
   # World wide web
   - Foundation for tech
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/8fd386ce-aa76-4f88-9f8f-1842b2809f24" />
