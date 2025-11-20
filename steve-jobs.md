@@ -8,3 +8,4 @@ steve-jobs.md
     - Played a key role in the success of Pixar Animation Studios, leading to groundbreaking animated films.
     - Known for his visionary leadership and emphasis on design and user experience.\
     https://www.britannica.com/money/Steve-Jobs
+"Peer review: Could you add more details about the first Macintosh computer?"
