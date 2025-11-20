@@ -18,4 +18,13 @@ Answer: git pull
 Answer: git commit -m "Added modern innvators"
 4.2: What command did you use to publish your changes to the remote repository?
 Answer: git push
+5.1: What did git status tell you after you ran git fetch?
+Answer:remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 1.05 KiB | 2.00 KiB/s, done.
+From https://github.com/Killeroxthebest/Digital-History-Notebook
+5.2: What command did you use to merge your peer's changes into your local notebook?
+Answer: git pull
 
