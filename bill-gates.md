@@ -1,0 +1,3 @@
+# Bill gates role
+- Bill co-founded Microsoft Corporation in 1975 with Paul Allen and led the company to become the worldwide leader in business and personal software and services. In 2008, Bill transitioned to focus full-time on the foundation’s work. Through his private office, Gates Ventures, he pursues his work in climate change and clean energy innovation, Alzheimer’s research and other healthcare issues, interdisciplinary education, and technology.
+- sources https://www.gatesfoundation.org/about/leadership/bill-gates

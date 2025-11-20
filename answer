@@ -1,4 +1,4 @@
-import Status (These questions need to be answered for part of your grade):
+Report Status (These questions need to be answered for part of your grade):
 1.1: What command did you use to bring the repository to your local machine?
 Answer:git init
 >> git add README.md
@@ -7,10 +7,9 @@ Answer:git init
 >> git remote add origin https://github.com/Killeroxthebest/Digital-History-Notebook.git
 >> git push -u origin maini
 1.2: What was your first commit message to push this file to GitHub?
-Answer: commit add .
+Answer: commit add
 2.1: What two file names did you create?
 Answer: ada-lovelace.md and alan-turning
 2.2: What was your commit message?
 Answer: git commit -m "Added pioneers Ada and Alan
-
 
