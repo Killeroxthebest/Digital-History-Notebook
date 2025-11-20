@@ -129,3 +129,6 @@ Timeline: The rise of the internet
   # World wide web
   - Foundation for tech
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/8fd386ce-aa76-4f88-9f8f-1842b2809f24" />
+
+#Final thoughts
+- This has helped me navigate throught both my program and Github. I have learned many that I will be using and continune to learn new and cool ways with the knowledge I know compiled.
