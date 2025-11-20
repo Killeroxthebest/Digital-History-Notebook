@@ -31,4 +31,6 @@ Answer: git pull
 Answer: git commit -m "Added Tim Berners-Lee" 
 6.2: What command did you use to publish your work?
 Answer: git push
+7.1: What command did you use to retrieve your final thoughts from GitHub?
+Answer: git pull
 
